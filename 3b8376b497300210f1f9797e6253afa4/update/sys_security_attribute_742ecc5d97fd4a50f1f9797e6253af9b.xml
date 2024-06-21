@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_attribute">
+    <sys_security_attribute action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>Role=b0593b350a0a0aa7001d689e4542dc28^NQRole=c7cce8f197f00610f1f9797e6253af48</condition>
+        <description>Auto Created Attribute - ACL_3aa936bc97300210f1f9797e6253af70</description>
+        <is_dynamic>true</is_dynamic>
+        <is_localized>true</is_localized>
+        <is_system>false</is_system>
+        <label>ACL_3aa936bc97300210f1f9797e6253af70</label>
+        <lookup_table/>
+        <lookup_table_column/>
+        <name>x_716450_hr__ACL_3aa936bc97300210f1f9797e6253af70</name>
+        <script/>
+        <sys_class_name>sys_security_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 02:31:44</sys_created_on>
+        <sys_id>742ecc5d97fd4a50f1f9797e6253af9b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_716450_hr__ACL_3aa936bc97300210f1f9797e6253af70</sys_name>
+        <sys_package display_value="Human Resource" source="x_716450_hr">3b8376b497300210f1f9797e6253afa4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3b8376b497300210f1f9797e6253afa4</sys_scope>
+        <sys_update_name>sys_security_attribute_742ecc5d97fd4a50f1f9797e6253af9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 03:40:01</sys_updated_on>
+        <type>compound</type>
+    </sys_security_attribute>
+</record_update>

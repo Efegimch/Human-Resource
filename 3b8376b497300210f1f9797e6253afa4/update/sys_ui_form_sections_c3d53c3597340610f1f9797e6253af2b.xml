@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c3d53c3597340610f1f9797e6253af2b" sys_domain="global" table="x_716450_hr_hr_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-08 01:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bd53c3597340610f1f9797e6253af2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_716450_hr_hr_task" name="x_716450_hr_hr_task" sys_domain="global" view="Default view">c3d53c3597340610f1f9797e6253af2b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_716450_hr_hr_task" sys_domain="global" view="Default view">fa1e28b997f00610f1f9797e6253afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-08 01:39:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-08 01:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87d53c3597340610f1f9797e6253af2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_716450_hr_hr_task" name="x_716450_hr_hr_task" sys_domain="global" view="Default view">c3d53c3597340610f1f9797e6253af2b</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_716450_hr_hr_task" sys_domain="global" view="Default view">47d5f83597340610f1f9797e6253af87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-08 01:39:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-08 01:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfd53c3597340610f1f9797e6253af32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_716450_hr_hr_task" name="x_716450_hr_hr_task" sys_domain="global" view="Default view">c3d53c3597340610f1f9797e6253af2b</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_716450_hr_hr_task" sys_domain="global" view="Default view">43d53c3597340610f1f9797e6253af2a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-08 01:39:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_716450_hr_hr_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-08 01:39:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3d53c3597340610f1f9797e6253af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_716450_hr_hr_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Human Resource" source="x_716450_hr">3b8376b497300210f1f9797e6253afa4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Human Resource">3b8376b497300210f1f9797e6253afa4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c3d53c3597340610f1f9797e6253af2b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-08 01:39:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
